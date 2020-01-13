@@ -19,7 +19,7 @@
 	<p> Your favorite color:
 	<input type="text" name="third" value="">
 	<input type="submit"> <br/>
-	<br/>
+
 	
 	</form>
 
